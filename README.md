@@ -1,4 +1,5 @@
 HA服务一键切换
+  
   管理HA双机或HA集群的系统服务、应用服务(启动/停止、运行状态检查)
   支持CentOS、Red Hat、SUSE Linux、Ubuntu以及Windows
   支持Linux和Windows主机混合组(即双机组里面可以同时存在Linux和Windows主机的服务)

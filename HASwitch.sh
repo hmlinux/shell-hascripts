@@ -7,7 +7,7 @@ LOGFILE=`pwd`/haswitch.log
 HA_MODE=$2
 
 #MySQL connect information
-HOST="10.18.224.42"
+HOST="localhost"
 USER="root"
 PASSWD="123456"
 DB="ha"
